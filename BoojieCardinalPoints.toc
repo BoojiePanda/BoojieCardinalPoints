@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: |cFFFF8DA1Boojie Cardinal Points|r
+## Notes: Adds N S E W letters around the minimap
+## Author: SilverRavyn
+## Version: 1.0
+## SavedVariables: BoojieCardinalPointsDB
+
+BoojieCardinalPoints.lua
