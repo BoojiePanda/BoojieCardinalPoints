@@ -2,7 +2,14 @@
 ## Title: |cFFFF8DA1Boojie Cardinal Points|r
 ## Notes: Adds N S E W letters around the minimap
 ## Author: SilverRavyn
-## Version: 1.0
+## Version: 1.1.0
+## Category: Quality of Life
+## IconTexture: Interface\AddOns\BoojieCardinalPoints\BoojieCardinalPointsBCPIcon.png
 ## SavedVariables: BoojieCardinalPointsDB
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
 
 BoojieCardinalPoints.lua

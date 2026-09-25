@@ -9,13 +9,15 @@ Boojie Cardinal Points is a lightweight World of Warcraft addon that adds statio
 - Independent position offsets for each direction
 - Custom letter color
 - Optional text outline
+- Matching black and pink settings window
+- Minimap button with LibDataBroker and LibDBIcon support
 - Saves settings between sessions
 
 ## Configuration
 
-Open World of Warcraft's **Options** menu, select **AddOns**, and choose **Boojie Cardinal Points**.
+Type `/bcp` or `/boojiecardinalpoints` to open the settings window. You can also open it from World of Warcraft's **Options > AddOns > Boojie Cardinal Points** panel or the minimap button.
 
-The settings panel includes controls for letter size, color, outline, and the position of each cardinal point. Use **Reset Defaults** to restore the original appearance.
+The settings window includes controls for letter size, color, outline, minimap-button visibility, and the position of each cardinal point. Use **Reset Defaults** to restore the original letter appearance.
 
 ## Installation
 
