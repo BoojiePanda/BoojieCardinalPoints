@@ -1,38 +1,37 @@
 # Boojie Cardinal Points
 
-Boojie Cardinal Points is a lightweight World of Warcraft addon that adds stationary **N**, **S**, **E**, and **W** labels around the minimap.
+Boojie Cardinal Points adds stationary N, S, E, and W labels around the World of Warcraft minimap.
 
 ## Features
 
-- Keeps cardinal directions visible around the minimap
+- Cardinal direction labels around the minimap
 - Adjustable letter size from 8 to 40
 - Independent position offsets for each direction
-- Custom letter color
-- Optional text outline
-- Matching black and pink settings window
-- Minimap button with LibDataBroker and LibDBIcon support
-- Saves settings between sessions
+- Custom letter color and optional outline
+- Movable Boojie-style settings window
+- LibDataBroker minimap button with a visibility setting
+- Saved appearance, position, and minimap settings
 
-## Configuration
+## Settings
 
-Type `/bcp` or `/boojiecardinalpoints` to open the settings window. You can also open it from World of Warcraft's **Options > AddOns > Boojie Cardinal Points** panel or the minimap button.
+Open Settings with the minimap button, `/bcp`, `/boojiecardinalpoints`, or `Settings > AddOns > Boojie Cardinal Points`.
 
-The settings window includes controls for letter size, color, outline, minimap-button visibility, and the position of each cardinal point. Use **Reset Defaults** to restore the original letter appearance.
+You can configure letter size, color, outline, minimap-button visibility, and the position of each cardinal point. Use Reset Defaults to restore the original letter appearance.
 
 ## Installation
 
-1. Download or clone this repository.
-2. Place the `BoojieCardinalPoints` folder in:
+1. Download the zip file and unarchive it.
+2. Place the `BoojieCardinalPoints` folder inside:
 
    `World of Warcraft/_retail_/Interface/AddOns/`
 
-3. Restart World of Warcraft or reload the UI.
-4. Enable **Boojie Cardinal Points** from the AddOns list if needed.
+3. Ensure it is properly installed by checking:
 
-## Compatibility
+   `World of Warcraft/_retail_/Interface/AddOns/BoojieCardinalPoints/BoojieCardinalPoints.toc`
 
-Designed for the current retail World of Warcraft client.
+4. Enable Boojie Cardinal Points from the AddOns menu on the character-selection screen.
+5. Log in or type `/reload`.
 
 ## Author
 
-SilverRavyn
+Created by **BoojiePanda (SilverRavyn)**.
