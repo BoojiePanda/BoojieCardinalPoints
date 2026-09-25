@@ -1,6 +1,6 @@
 # Boojie Cardinal Points
 
-Boojie Cardinal Points adds stationary N, S, E, and W labels around the World of Warcraft minimap.
+Boojie Cardinal Points adds stationary N, S, E, and W labels around the World of Warcraft minimap. This is a revamp of my original addon, ElvUI Cardinal Points, from 2020. At that time, if I remember correctly, there were no other cardinal points addons for the in-game skinned minimap.
 
 ## Features
 
